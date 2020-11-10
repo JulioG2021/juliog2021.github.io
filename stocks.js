@@ -1,6 +1,6 @@
  
 // JavaScript Document
-let	tesla = 411.66;
+let tesla = 411.66;
 let nike = 128.05;
 let starbucks = 94.32;
 let amazon = 3057.25;

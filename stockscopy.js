@@ -1,4 +1,10 @@
- 
+ <h2>Stock Values</h2>
+			<p id="tsla"></p>
+			<p id="google"></p>
+			<p id="att"></p>
+			<p id="amzn"></p>
+			<p id="nvda" style="padding-bottom: 30px"></p>
+
 // JavaScript Document
 let tesla = 411.66;
 let nike = 128.05;
